@@ -5,13 +5,13 @@ Para a prova
 <hmtl>
   <head>
     <meta= "UTF-8">
-    <title> Cabeçalho</title>
+    <title> Cabecalho</title>
   </head>
   
   <body>
   <h1>Nome: João Vitor Ferreira Dantas<h1>
     <h1>Curso: Sistemas da informação - 3º semestre<h1>
       
-      <body>
+   <body>
       </html>
     
