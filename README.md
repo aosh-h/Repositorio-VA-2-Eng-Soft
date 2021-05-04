@@ -5,8 +5,7 @@ Para a prova
 <hmtl>
   <head>
     <meta= "UTF-8">
-    <title> </title>
-  </head>
+    </head>
   
   <body>
   <h1>Nome: João Vitor Ferreira Dantas<h1>
